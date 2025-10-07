@@ -7,8 +7,8 @@
 
 <h3 align="center">👨‍💻 About Me</h3>
 <p align="left">
-🚀 I'm currently working on a <strong>Trello App Clone</strong>, using <strong>Next.js, TypeScript, Tailwind, Python (Flask), PostgreSQL</strong>, following an <strong>MVC architecture</strong>.
-📱 I'm also exploring <strong>React Native</strong>, delving deeper into <strong>Node.js</strong>, and <strong>Express</strong>, applying them in a <strong>mobile app for vital signs monitoring</strong>.
+🚀 I'm currently working on a <strong>Trello App Clone</strong>, using <strong>Next.js, TypeScript, Tailwind, Python (Flask), PostgreSQL</strong>, following an <strong>MVC architecture</strong>.<br></br>
+📱 I'm also exploring <strong>React Native</strong>, delving deeper into <strong>Node.js</strong>, and <strong>Express</strong>, applying them in a <strong>mobile app for vital signs monitoring</strong>.<br></br>
 🥁 Fun fact: <strong>Self-taught musician, I love playing the drums</strong> & <strong>semi-pro table tennis player 🏓 — always up for a challenge!</strong>
 </p>
 
@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
   <a href="mailto:claudk1006@gmail.com" target="_blank">
-    <img src="https://w7.pngwing.com/pngs/758/665/png-transparent-new-logo-gmail-google-new-logos-icon-thumbnail.png" alt="Gmail" height="30" width="40" />
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" height="30" width="40" />
   </a>
 </p>
 
@@ -38,12 +38,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
